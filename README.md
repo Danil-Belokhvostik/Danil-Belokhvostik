@@ -30,7 +30,6 @@
 
 I'm a Data Scientist:
 
-- 🔍 I’m looking for a job 
 - 🏆 I’ve completed the Yandex Practicum course
 - 💪 Participated in two hackathons
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=Telegram&logoColor=white)](https://t.me/danil_belokhvostik)
